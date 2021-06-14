@@ -2,16 +2,16 @@
 by X
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about Matter.js. The purpose of this blog is to keep records of my learning process of MAtter.js.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making an arcade with different games to choose from. This blog will walk through my process of independently studying Matter.js in order to make the arcade.
 
 ## Links
 
-Product
+[Product](https://ivanc4515.github.io/SEP11FP/)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1jLa1mx3XkdPuiBUK94chFVyDXsFpVhWRJOgFT4bMjfc/edit#slide=id.p)
 
 ## Implications
 X
